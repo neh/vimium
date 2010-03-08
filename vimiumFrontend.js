@@ -504,8 +504,8 @@ HUD = {
       "max-width: 400px;" +
       "min-width: 150px;" +
       "text-align: left;" +
-      "background-color: #ebebeb;" +
-      "font-weight: normal;" +
+      "background-color: #FF8F2E;" +
+      "font-weight: bold;" +
       "font-size: 11px;" +
       "padding: 3px 3px 2px 3px;" +
       "border: 1px solid #b3b3b3;" +

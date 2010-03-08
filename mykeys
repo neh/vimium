@@ -1,0 +1,14 @@
+unmap j
+unmap k
+unmap gt
+unmap gT
+
+map t scrollDown
+map n scrollUp
+map s scrollRight
+map S goForward
+map l performFind
+map L performBackwardsFind
+map T nextTab
+map N previousTab
+map C createTab
